@@ -3,7 +3,6 @@
 # current repo
 
 https://github.com/Team-BCC/QuizGame
-https://github.com/Team-BCC/QuizGame
 
 # Introduction
 
