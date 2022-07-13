@@ -1,5 +1,10 @@
 # Quiz Game App v0.2
 
+# current repo
+
+https://github.com/Team-BCC/QuizGame
+https://github.com/Team-BCC/QuizGame
+
 # Introduction
 
 A Quiz-Game application that works through a client-server model.
